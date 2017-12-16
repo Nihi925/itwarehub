@@ -60,15 +60,6 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-<h1>Author</h1>
-<p>Sesha Sai Srivatsav Kuchibhotla</p>
-<ul>
-  <li>https://github.com/seshasaisrivatsav/</li>
-  <li>http://www.seshasaisrivatsav.com/</li>
-  <li>https://www.linkedin.com/in/seshasaisrivatsav</li>
-</ul>
-
-
 <h1>License</h1>
 <p><a href="https://github.com/seshasaisrivatsav/srivatsav-resume/blob/master/LICENSE">MIT</a></p>
 
